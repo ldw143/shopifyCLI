@@ -312,5 +312,9 @@
         ]
       }
     }
+  },
+  "dependencies": {
+    "cli-kit": "link:./packages/cli-kit",
+    "plugin-cloudflare": "link:./packages/plugin-cloudflare"
   }
 }
